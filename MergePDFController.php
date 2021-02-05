@@ -35,5 +35,4 @@ class MergePDFController extends Controller
             unlink($unlinkpath2);
 
     }
-
 }
